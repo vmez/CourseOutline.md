@@ -4,11 +4,11 @@
 
 ### Chapter 4.1: Choosing & designing schemas
 * Lesson 1:  data schemas
-      By the end of the lesson the participants will be able to choose and design schemas
+      * By the end of the lesson the participants will be able to choose and design schemas
 * Lesson 2:  importance of data schemas
-      By the end of the lesson the participants will be able to explain the importance of having a schema
+      * By the end of the lesson the participants will be able to explain the importance of having a schema
 * Lesson 3:  types of data schemas
-      By the end of the lesson the participants will be able to list the types of schemas
+      * By the end of the lesson the participants will be able to list the types of schemas
 
 ### Chapter 4.2: Data formats and structures
 Lesson 1: data formats and structures 
