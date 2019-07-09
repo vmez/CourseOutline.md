@@ -1,12 +1,12 @@
 # CourseOutline.md
 
 ## Course 4: Data management techniques
-**Chapter 4.1: Choosing & designing schemas
-⋅⋅1 Lesson 1:  data schemas
+Chapter 4.1: Choosing & designing schemas
+* Lesson 1:  data schemas
 By the end of the lesson the participants will be able to choose and design schemas
-⋅⋅2 Lesson 2:  importance of data schemas
+* Lesson 2:  importance of data schemas
 By the end of the lesson the participants will be able to explain the importance of having a schema
-⋅⋅3 Lesson 3:  types of data schemas
+* Lesson 3:  types of data schemas
 By the end of the lesson the participants will be able to list the types of schemas
 
 Chapter 4.2: Data formats and structures
